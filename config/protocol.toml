@@ -1,0 +1,91 @@
+[cycle]
+hours = 24
+timezone = "Asia/Shanghai"
+lookback_cycles = 5
+study_days = 21
+fit_cycles = [1, 12]
+validation_cycles = [13, 16]
+test_cycles = [17, 21]
+
+[contribution]
+features = ["engagement", "financial", "activity", "authenticity"]
+
+[reliability]
+scale = 1.5
+unscored_payout_alpha = 1.0
+
+[optimizer]
+eta_min = 0.005
+eta_decay = 0.96
+eta0 = [0.04, 0.08, 0.16]
+finite_difference_step = 0.0005
+controlled_sensitivity_iterations = 60
+
+[optimizer.configured]
+authorized_l1_radius = 0.4
+trigger_event = 32
+kappa = 1.3333333333333333
+
+[optimizer.heldout]
+eta0 = 0.08
+eta_min = 0.005
+eta_decay = 0.96
+finite_difference_step = 0.0005
+allocation_tolerance = 0.005
+policy_tolerance = 0.005
+max_iterations = 100
+authorized_l1_radius = 0.8
+minimum_source_summaries = 5
+contexts = 60
+other_contexts = 30
+shop_contexts = 30
+
+[gcs]
+gamma = 2.0
+mad_threshold = 3.0
+mad_epsilon = 0.0001
+minimum_batch = 5
+
+[governance]
+quorum_numerator = 3
+quorum_denominator = 10
+acceptance_numerator = 3
+acceptance_denominator = 4
+voting_units = 10
+cast_units = 9
+approve_units = 9
+timing_runs = 1000
+
+[attacks]
+history_cycles = 5
+sybil_clean_target_fraction = 0.05
+lowest_known_device_price = 500.5
+rating_allocation_quantile = 0.20
+collusion_group_size = 15
+collusion_interactions_per_group = 200
+collusion_window_seconds = 300
+cross_context_donor_top_fraction = 0.10
+cross_context_source_context = "Gaming"
+cross_context_target_context = "Shopping"
+
+[transition]
+trigger_event = 32
+kappa = 1.3333333333333333
+
+[bootstrap]
+resamples = 2000
+seed = 20261118
+
+[attack_queues]
+sybil_positive = 62
+sybil_negative = 1168
+rating_stuffing_positive = 567
+rating_stuffing_negative = 5095
+collusion_positive = 45
+collusion_negative = 1123
+cross_context_positive = 13
+cross_context_negative = 108
+
+[allocation]
+budget_minor_units = 1000
+minor_unit_scale = 0
