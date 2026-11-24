@@ -1,35 +1,34 @@
-## 研究目的
+## Research Purpose
 
-本研究比较两种直播收益分配报告，了解参与者对贡献分解、金额解释、惩罚原因、下一步建议和分配公平性的主观感受。
+This study compares two types of live streaming revenue distribution reports to understand participants’ subjective perceptions of contribution breakdowns, amount explanations, penalty reasons, next-step recommendations, and the fairness of the distribution.
 
-## 研究程序
+## Research Procedure
 
-您将阅读系统 A 和系统 B 的配对报告，并回答五道五级评价题、四道系统比较题以及最多三道开放题。部分参与者会看到关于惩罚原因解释的条件题；该题仅在对应报告显示惩罚时出现。
+You will read paired reports from System A and System B and answer five five-point rating questions, four system comparison questions, and up to three open-ended questions. Some participants will see a conditional question about explanations of penalty reasons; this question will appear only when the corresponding report shows a penalty.
 
-## 预计时间
+## Estimated Time
 
-预计需要 15–20 分钟。该时间为根据恢复流程作出的估计。
+The estimated time is 15–20 minutes. This estimate is based on the recovery process.
 
-## 可能风险
+## Possible Risks
 
-本研究预计为最低风险在线问卷。可能的不适主要是阅读较复杂的分配报告、评价不同系统时产生的轻微认知负担，或因报告内容不清楚而感到困惑。您可以跳过非必答开放题或退出问卷。
+This study is expected to be a minimal-risk online questionnaire. Possible discomfort mainly includes mild cognitive burden from reading relatively complex distribution reports and evaluating different systems, or confusion if the report content is unclear. You may skip optional open-ended questions or withdraw from the questionnaire.
 
-## 可能收益
+## Possible Benefits
 
-您不一定获得直接个人收益。您的反馈可能帮助研究人员改进收益分配报告的透明度、可验证性和改进建议。
+You may not necessarily receive direct personal benefits. Your feedback may help researchers improve the transparency, verifiability, and improvement recommendations of revenue distribution reports.
 
-## 自愿参加与退出
+## Voluntary Participation and Withdrawal
 
-参加完全自愿。您可以在提交前随时退出，不需要说明理由，也不会因此受到处罚或影响任何服务、成绩、工作或收益。提交匿名答案后，如果研究人员无法将答案与个人对应，可能无法根据个人请求删除单条记录。
+Participation is completely voluntary. You may withdraw at any time before submission without providing a reason, and you will not be penalized or affect any services, grades, work, or revenue as a result. After submitting anonymous answers, if researchers cannot link the answers to individuals, it may not be possible to delete individual records upon personal request.
 
-## 隐私与数据处理
+## Privacy and Data Processing
 
-问卷不要求填写姓名、电子邮箱、电话号码或平台账号。分析使用匿名参与编号，并以角色、顺序组和汇总统计报告结果。原始答卷仅供研究团队用于本研究分析。公开材料不包含可识别个人的信息或逐参与者开放回答。
+The questionnaire does not require your name, email address, phone number, or platform account. Analyses will use anonymous participant IDs, and results will be reported by role, order group, and aggregate statistics. Raw responses will be used only by the research team for analysis in this study. Public materials will not contain personally identifiable information or per-participant open-ended responses.
 
-## 同意声明
+## Consent Statement
 
-我已阅读并理解上述说明，知晓参加是自愿的，知晓可以退出，并同意研究人员按照说明使用我的匿名问卷回答。
+I have read and understood the above information, understand that participation is voluntary, understand that I may withdraw, and agree that the researchers may use my anonymous questionnaire responses as described.
 
-- `同意并开始问卷`
-- `不同意并退出`
-
+- `Agree and start the questionnaire`
+- `Disagree and exit`
